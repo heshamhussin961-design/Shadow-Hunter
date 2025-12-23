@@ -37,5 +37,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Shadow-Hunter-Tool.git](https://github.com/YOUR_USERNAME/Shadow-Hunter-Tool.git)
+git clone https://github.com/heshamhussin961-design/Shadow-Hunter.git
 cd Shadow-Hunter-Tool
